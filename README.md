@@ -19,5 +19,7 @@ Soft Skills: Strong problem-solving abilities, effective communication, and team
 I’d love to connect! You can reach me via:
 
 LinkedIn: [LinkedIn](https://www.linkedin.com/in/r-r-8a70772b2/)
+
 GitHub: [GitHub](https://github.com/lakersrogelio/lakersrogelio.github.io)
+
 Email: reyesro_23@yahoo.com
