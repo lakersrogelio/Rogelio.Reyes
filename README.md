@@ -11,7 +11,7 @@ Church Website: Created a comprehensive website for a local church, which includ
 
 ## Skills
 Languages: C#, HTML, CSS, SQL
-Tools: Git & GitHub, Microsoft Visual Studio, SQL server Management
+Tools: Git & GitHub, Microsoft Visual Studio, SQL Server Management Studio
 Soft Skills: Strong problem-solving abilities, effective communication, and teamwork.
 
 
