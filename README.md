@@ -1,22 +1,3 @@
-body {
-    font-family: 'Arial', sans-serif;
-    background-color: #f4f4f4;
-    color: #333;
-    line-height: 1.6;
-}
-
-h1, h2 {
-    color: #0056b3; /* Use a consistent color for headings */
-}
-
-a {
-    color: #0056b3; /* Link color */
-    text-decoration: none; /* Remove underline */
-}
-
-a:hover {
-    text-decoration: underline; /* Underline on hover */
-}
 # Rogelio Reyes
 Welcome to my personal portfolio! My name is Rogelio Reyes, and I'm a recent graduate from the OWATC’s computer programming program. I am passionate about creating efficient and innovative solutions through code, and I'm eager to apply my skills in real-world projects.
 
